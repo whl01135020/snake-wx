@@ -1,0 +1,10 @@
+
+<canvas 
+  canvas-id="snakeCanvas" 
+  class="canvas" 
+  bindtouchstart="touchstart" 
+  bindtouchmove="touchmove">
+</canvas>
+
+
+
