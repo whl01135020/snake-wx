@@ -15,6 +15,3 @@
 蛇的增长：在蛇尾后面加一个点坐标即可
 
 游戏结束：蛇头撞到墙壁或者撞到自己身体则游戏结束
-
-
-![Image text](https://github.com/whl01135020/snake-wx/blob/master/Snake/images/1.png)
